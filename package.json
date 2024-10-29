@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  },
+  "name": "devtin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/ap.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
